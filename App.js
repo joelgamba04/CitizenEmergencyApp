@@ -5,7 +5,7 @@ import {
   RTCPeerConnection,
   RTCIceCandidate,
   RTCSessionDescription,
-  RTCView,
+  RTCView, //<RTCView stream={stream} />
   RTCRtpTransceiver,
   RTCRtpReceiver,
   RTCRtpSender,
